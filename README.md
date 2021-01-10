@@ -13,7 +13,7 @@ and Apple has come under the scrutiny of the regulators in 2020 for doing that.
 1. **DNS servers infrastructure**. The defense against this could be to use [ENS](https://ens.domains/), or to avoid using DNS and switch to DHT altogether (not an option for most apps).
 1. **Certificate authorities**. Certificate Authority can revoke app's TLS / SSL certificate.
 1. **Payment providers**. Wikileaks was denied banking services and the only way it was able to survive was the Bitcoin. 
-In January 2021, DLive was pressured by Tipalti, a payment company that helps it operate. 
+In January 2021, Stripe [stopped processing payments for Trump Campaign](https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-website-11610319116). In January 2021, DLive was pressured by Tipalti, a payment company that helps it operate. 
 Tilpati said in a statement that it had suspended its service until DLive removed the accounts that had broadcast the Capitol riots.
 1. **Search engine**. Google was fined by EU for placing its own apps above competition in search results. If you app can't found on the Internet, it will have to rely on the word-of-mouth only. 
     1. App Stores have their own search engines and placing the app lower in search results can be easily used by them as a way to hurt the app's distribution.
