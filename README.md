@@ -17,15 +17,15 @@ In January 2021, DLive was pressured by Tipalti, a payment company that helps it
 Tilpati said in a statement that it had suspended its service until DLive removed the accounts that had broadcast the Capitol riots.
 1. **Search engine**. Google was fined by EU for placing its own apps above competition in search results. If you app can't found on the Internet, it will have to rely on the word-of-mouth only. 
     1. App Stores have their own search engines and placing the app lower in search results can be easily used by them as a way to hurt the app's distribution.
-1. Ad networks. Similar to search engine. If app can't advertise, its distribution will be limited.
-1. CDNs. Content Delivery Networks are often used to speed up downloading of content by users. 
+1. **Ad networks**. Similarly to search engines, if the app can't advertise, its distribution is limited.
+1. **CDNs**. Content Delivery Networks are often used to speed up downloading of content by users. 
 Unfortunately CDN industry is quite concentrated in the handful of hands, like Akamai, Cloudflare, Fastly, etc. 
 CDNs are not unavoidable, but not using them creates a worse customer experience.
 1. **Platforms**. Varios platforms can block (de-platform) the app. There are so many of them, but to list a few:
     1. Push Notifications. Most apps rely on push notifications. There are only two services (by Google and Apple) that every app must use. No alternatives.
     1. Marketplaces. Amazon ecommerce marketplace, e-Bay, Shopify, Spotify and many others can block the app.
     1. Any Web API used by the app is potentially a choke point.
-    1. Social media. Facebook, Twitter are infamous for blocking the apps that competed with their own services.
+    1. Social media. Facebook, Twitter are infamous for blocking the apps that competed with their own services. Youtube, LinkedIn and all others have a similar power and they exercise it.
 1. **ISPs**. This is the last line of attack, efficiently used today by the states that impose censorship. 
 China instituted the first whole-country filtering service, that examines and blocks sites and content. 
 A number of other countries followed. Usually VPN can effectively overcome this problem, but in China, 
