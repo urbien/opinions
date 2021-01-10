@@ -1,10 +1,8 @@
-## Free speach for apps
+## Risk points for apps
 We just saw [Parler app being suspended or banned](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html) from app stores by Apple and Google, and by Amazon AWS, 
 for the user-produced content inciting violence. 
 
-Putting aside the legal right of these platforms for such banning, 
-we need the examine what choke points exist on the Internet today that can be used against the app, w
-hatever the intention could be, whether it is social issues, religious, political, anti-competitive, government imposed censorship, or any other.
+Putting aside the legal right of these platforms for such banning, every startup CEO needs has a duty to its shareholders to ask this question: what choke points exist on the Internet today that can be used against my app, whatever the intention could be, whether it is social issues, religious, political, anti-competitive, government imposed censorship, or any other.
 
 ## Choke points
 Please help me identify them, but here are those that I know of:
