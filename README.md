@@ -20,7 +20,7 @@ Tilpati said in a statement that it had suspended its service until DLive remove
 1. **Ad networks**. Similarly to search engines, if the app can't advertise, its distribution is limited.
 1. **CDNs**. Content Delivery Networks are often used to speed up downloading of content by users. 
 Unfortunately CDN industry is quite concentrated in the handful of hands, like Akamai, Cloudflare, Fastly, etc. 
-CDNs are not unavoidable, but not using them creates a worse customer experience.
+CDNs are not unavoidable, but not using them creates a worse customer experience. 8Chan [learned it the hard way](https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html).
 1. **Platforms**. Varios platforms can block (de-platform) the app. There are so many of them, but to list a few:
     1. Push Notifications. Most apps rely on push notifications. There are only two services (by Google and Apple) that every app must use. No alternatives.
     1. Marketplaces. Amazon ecommerce marketplace, e-Bay, Shopify, Spotify and many others can block the app.
