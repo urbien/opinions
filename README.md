@@ -1,4 +1,4 @@
-## Risk points for apps
+## You think your App business is safe?
 We just saw [Parler app being suspended or banned](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html) from the app stores by Apple and Google, and by Amazon AWS cloud, for the user-produced content inciting violence. 
 
 Putting aside the legal right of these platforms for such banning, every startup CEO needs has a duty to its shareholders to ask this question: what choke points exist on the Internet today that can be used against my app, whatever the intention could be, whether it is social issues, religious, political, anti-competitive, government imposed censorship, or any other.
@@ -31,6 +31,7 @@ China instituted the first whole-country filtering service, that examines and bl
 A number of other countries followed. Usually VPN can effectively overcome this problem, but in China, 
 VPN apps were ordered to be removed from the app stores, and the VPN servers are actively monitored, 
 blocked or drastically slowed down by ISPs.
+1. **And finally the government**. Without a prosecution the Government can just sanction apps, like happened to Chinese apps in 2020 in India and in the US (of course Chinese have essentially banned all popular US apps long time ago).
 
 ## Attack angles
 Although not choke points, the attacks can be executed in different ways. 
